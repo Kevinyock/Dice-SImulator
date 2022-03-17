@@ -1,0 +1,4 @@
+﻿  DiceSimulator.cpp
+c:\users\kevin\documents\visual studio 2015\projects\dicesimulator\dicesimulator\dicesimulator.cpp(10): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DiceSimulator.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DiceSimulator\Debug\DiceSimulator.exe
+  DiceSimulator.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DiceSimulator\Debug\DiceSimulator.pdb (Full PDB)
